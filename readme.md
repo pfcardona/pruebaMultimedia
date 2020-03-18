@@ -1,7 +1,16 @@
-# Short Lnk
+# Prueba Multimedia Lab
 
-This is a link shortener built on Meteor and React for my new course.
 
 ## Authors
+Pablo Felipe Cardona
 
-Andrew Mead
+
+1.en linux 
+curl https://install.meteor.com/ | sh
+
+En la consola 
+git clone https://github.com/pfcardona/pruebaMultimedia.git
+cd prueba
+meteor npm install
+meteor
+
